@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: single
-permalink: /portfolio_ainhoa/research/
+permalink: /research/
 author_profile: true
 ---
 
