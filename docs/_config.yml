@@ -98,23 +98,22 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  name             : "Ainhoa del Pino Rodríguez Vera"
+  avatar           : "/assets/images/bio-photo-ainhoa.jpeg"
+  bio              : "Predoctoral Researcher in Strategic Communication and Tourism, with a focus on startups, gender, innovation and science communication"
+  location         : "Málaga, Spain"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ainhoarodriguez@uma.es"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=VMMyGhUAAAAJ&hl=es"
+
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0009-0009-7638-4120"
 
 
 # Site Footer
