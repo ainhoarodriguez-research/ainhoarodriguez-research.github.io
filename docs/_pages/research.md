@@ -32,9 +32,6 @@ I also study startup hubs embedded in cultural and tourism institutions, particu
 ## Current Research Projects
 
 - **PID2022-139037OB-I00**: Communication strategies in women-led startups.
-- Development of the **COmMUnity Intelligence Platform**, a digital observatory for the automated diagnosis of strategic communication in entrepreneurial ecosystems.
-- Doctoral research on the creation of startup hubs within museums in Málaga.
-
 ---
 
 ## Methodological Approach
