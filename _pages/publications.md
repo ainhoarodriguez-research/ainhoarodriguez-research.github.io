@@ -40,20 +40,36 @@ Rodríguez-Vera, A. del P., de las Heras-Pedrosa, C., & Lugo-Ocando, J. (2023). 
 
 # Conference Papers
 
+## 2026
+- **International Conference Women in Science**
+Paper presented: Women as Entrepreneurs and Caregivers in Scientific Literature and the Media
+
 ## 2025
 
-Rodríguez-Vera, A. d. P., Rando-Cueto, D., & De las Heras-Pedrosa, C. (2025). Communication strategies in women-led startups. Paper presented at [Conference Name], [City, Country].
-
+- **6th COMRED International Conference, University of Seville (Spain)**
+Paper preented: Discursive and Communication Strategies of Startups on Social Media
+- **15th International Congress on Tourism and Information and Communication Technologies - TURITEC 2025**
+Paper presented: Impact of Startup Hubs on Cultural Innovation: A Comparative Analysis Between European Cities
+- **19th International Congress on Public Relations Research**
+Papers presented:
+Communication Strategies of Valencian Startups during the 2024 DANA Natural Disaster: Impact on Public Opinion and Corporate Reputation
+The role of Public Relations in Employability and Entrepreneurship Services at Andalusian Public Universities
+- **9th International Academic and Professional Congress on Happiness**
+Paper presented: Strategic Communication and Organisational Wellbeing in Startups with Female Leadership
+- **12th International Congress of Communicative Cities**
+Paper presented: Public Relations and Museums in the Digital Age: Strategies for Effective Cultural Communication
 ---
 
 ## 2024
 
 - **XVIII International Congress on Public Relations (AIRP 2024) – Ourense, Spain**
 Paper presented: “Public Relations and Startups: Analysis of the Current Situation of Entrepreneurial Companies and their Communicative Activity in Andalusia”
-- **Congreso Universitario Internacional de Comunicación, Innovación, Investigación y Docencia (CUICIID) | 2024**
+- **Congreso Universitario Internacional de Comunicación, Innovación, Investigación y Docencia (CUICIID)**
 Paper presented: Female Entrepreneurship in the Tourism Sector: A Bibliometric Analysis.
-- **8th International Academic and Professional Congress on Happiness | 2024**
+- **8th International Academic and Professional Congress on Happiness**
 Paper presented: Happiness and Wellbeing Management in Tourism Startups: A Study of Organisational Leadership and Entrepreneurship.
+- **11th International Congress of Creative Cities**
+Paper presented: Creative Cities and the Influence of Startups on Strategic Communication to Promote the City Brand
 ---
 
 # Research Stays
