@@ -4,7 +4,7 @@
 @import "minimal-mistakes";
 
 /* -----------------------------
-   ESTILO LIMPIO · ACADÉMICO MODERNO
+   HÍBRIDO · ACADEMIA + INNOVACIÓN
 ------------------------------ */
 
 body {
@@ -12,29 +12,54 @@ body {
   font-size: 18px;
   line-height: 1.75;
   color: #2b2b2b;
+  background-color: #ffffff;
 }
 
-/* Título principal (Research, Publications, etc.) */
+/* Título principal (Research, Publications) */
 .page__title {
-  font-size: 2.3rem;
+  font-size: 2.4rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.6px;
   margin-bottom: 1.5rem;
 }
 
 /* Años en Publications */
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
   margin-top: 2.5rem;
-  padding-bottom: 6px;
-  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #eaeaea;
 }
 
 /* Subtítulos */
 h3 {
   font-weight: 500;
-  margin-top: 1.5rem;
+  margin-top: 1.8rem;
+  color: #1a1a1a;
+}
+
+/* Enlaces con tono innovación */
+a {
+  color: #0057b8;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+a:hover {
+  color: #002f6c;
+}
+
+/* Más aire entre publicaciones */
+p {
+  margin-bottom: 1.4rem;
+}
+
+/* Menú más moderno */
+.greedy-nav {
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}  margin-top: 1.5rem;
 }
 
 /* Enlaces elegantes */
