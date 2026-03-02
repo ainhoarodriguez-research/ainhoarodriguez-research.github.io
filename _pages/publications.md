@@ -35,7 +35,8 @@ Rodríguez-Vera, A. del P., Rando-Cueto, D., & De las Heras-Pedrosa, C. (2024). 
 
 ## 2023
 
-Rodríguez-Vera, A. del P., de las Heras-Pedrosa, C., & Lugo-Ocando, J. (2023). [Explorando el papel de las relaciones públicas y la comunicación en los museos](https://doi.org/10.5783/revrrpp.v13i25.810). *Revista Internacional de Relaciones Públicas, 13*(25), 111–132.
+Rodríguez-Vera, A. del P., de las Heras-Pedrosa, C., & Lugo-Ocando, J. (2023). [Explorando el papel de las relaciones públicas y la comunicación en los museos](https://doi.org/10.5783/revrrpp.v13i25.810). *Revista Internacional de Relaciones Públicas, 13*(25), 111–132
+
 ---
 
 # Conference Papers
@@ -74,21 +75,22 @@ Paper presented: Creative Cities and the Influence of Startups on Strategic Comm
 
 # Research Stays
 
-Research stay at Essex University [United Kingdom] (2024–2025).
-Research stay at Aalto University [Finland] (2025–2026).
+Research stay at Essex University [United Kingdom] (2024–2025)
+Research stay at Aalto University [Finland] (2025–2026)
+
 ---
 
 # Awards, Academic Distinctions and Public Engagement
 
-**Competitive predoctoral fellowship (FPI), University of Málaga**
-**Thesis Talk – University of Málaga | 2025**
+- **Predoctoral fellowship (FPI), University of Málaga**
+- **Thesis Talk – University of Málaga | 2025**
 Selected finalist presentation: Museums as Startup Hubs: Cultural Innovation and Strategic
 Communication.
-**First Prize – Educathon Girls in STEM 2025 – University of Málaga | 2025**
+- **First Prize – Educathon Girls in STEM 2025 – University of Málaga | 2025**
 Awarded for the project Misión Algorítmica, an educational game introducing computational
 thinking and algorithmic logic to children aged 6–8 through cooperative, decision-based
 learning.
-**European Researchers’ Night 2024 – University of Málaga**
+- **European Researchers’ Night 2024 – University of Málaga**
 Public presentation: Women Entrepreneurs in Action: The Role of Women in Startups.
 
 ---
@@ -96,27 +98,22 @@ Public presentation: Women Entrepreneurs in Action: The Role of Women in Startup
 # Teaching Experience
 
 **University of Malaga (2024–2025)**
-Practical class instructor in undergraduate courses at the Faculty of Communication
-Sciences.
+Practical class instructor in undergraduate courses at the Faculty of Communication Sciences.
 - **Degree in Audiovisual Communication**
-1.Guión Especializado (Specialized Screenwriting)
-2.Introducción a la Publicidad (Introduction to Advertising)
-3.Introducción a las Relaciones Públicas (Introduction to Public Relations)
+- 1. Guión Especializado (Specialized Screenwriting)
+- 2.Introducción a la Publicidad (Introduction to Advertising)
+- 3.Introducción a las Relaciones Públicas (Introduction to Public Relations)
 - **Degree in Advertising and Public Relations**
-1.Investigación Aplicada a la Publicidad y las Relaciones Públicas (Applied Research in
-Advertising and Public Relations)
-2.Técnicas y Herramientas en Relaciones Públicas (Techniques and Tools in Public
-Relations)
+- 1.Investigación Aplicada a la Publicidad y las Relaciones Públicas (Applied Research in Advertising and Public Relations)
+- 2.Técnicas y Herramientas en Relaciones Públicas (Techniques and Tools in Public Relations)
 
 **University of Malaga (2025–2026)**
-Practical class instructor in undergraduate courses at the Faculty of Communication
-Sciences and the Faculty of Social Studies and Labour.
+Practical class instructor in undergraduate courses at the Faculty of Communication Sciences and the Faculty of Social Studies and Labour.
 - **Degree in Audiovisual Communication**
-1.Industria y Tendencias del Videojuego (Industry and Trends in the Videogame Sector)
+- 1.Industria y Tendencias del Videojuego (Industry and Trends in the Videogame Sector)
 - **Degree in Advertising and Public Relations**
-1.Discurso Publicitario (Advertising Discourse)
-2.Prospectiva en Comunicación (Communication Foresight)
+- 1.Discurso Publicitario (Advertising Discourse)
+- 2.Prospectiva en Comunicación (Communication Foresight)
 - **Degree in East Asian Studies — Faculty of Social Studies and Labour**
-1.Cultura Digital y Nuevas Tecnologías de la Información y la Comunicación en Asia
-Oriental (Digital Culture and New ICT in East Asia)
+- 1.Cultura Digital y Nuevas Tecnologías de la Información y la Comunicación en Asia Oriental (Digital Culture and New ICT in East Asia)
 
