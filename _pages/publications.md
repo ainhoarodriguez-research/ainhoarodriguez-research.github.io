@@ -4,12 +4,6 @@ permalink: /publications/
 layout: single
 author_profile: true
 ---
----
-title: "Publications"
-permalink: /publications/
-layout: single
-author_profile: true
----
 
 ## 2025
 
